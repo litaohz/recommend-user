@@ -1,0 +1,18 @@
+{
+  "baseline": {
+    "assembler": {
+      "inputCols": [
+        "addFollowFollowRate7d",
+        "eventCardFollowRate7d",
+        "discreteFollowNum",
+        "discretePublishedEventCount",
+        "alsFollowScore"
+      ],
+      "outputCol": "assembledFeatures"
+    },
+    "lr": {
+      "maxIter": 200,
+      "regParam": 0.1
+    }
+  }
+}

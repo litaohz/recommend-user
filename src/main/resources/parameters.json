@@ -1,0 +1,12 @@
+{
+  "smooth_parameter": {
+    "follow_rate_in_addfollow": {
+      "alpha": 1,
+      "beta": 320
+    },
+    "follow_rate_in_eventcard": {
+      "alpha": 1,
+      "beta": 120
+    }
+  }
+}
